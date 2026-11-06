@@ -8,8 +8,7 @@ Group: U4225
 Author: Milkina Maria Igorevna  
 Lab: Lab1  
 Date of create: 04.11.2026  
-Date of finished: **[заполнить после защиты перед преподавателем]**
-
+Date of finished: 
 ## 1. Цель работы
 
 Ознакомиться с сервисами Google Cloud, создать сервисный аккаунт с ролью IAM, развернуть виртуальную машину Compute Engine и получить файлы из Cloud Storage; исследовать влияние изменения IAM-роли на доступ к объектам и удалить созданные ресурсы.
